@@ -49,7 +49,7 @@ Python, pandas, NumPy, Matplotlib, seaborn, SciPy, scikit-learn, imbalanced-lear
 
 | File | Description |
 | --- | --- |
-| `Computation_Biology(Progress).ipynb` | Data exploration, preprocessing, model training, and evaluation |
+| `Computation_Biology.ipynb` | Data exploration, preprocessing, model training, and evaluation |
 | `Breast_Cancer.csv` | Dataset used in the analysis |
 
 ## How to Run
