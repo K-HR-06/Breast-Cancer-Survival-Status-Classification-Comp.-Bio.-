@@ -51,7 +51,6 @@ Python, pandas, NumPy, Matplotlib, seaborn, SciPy, scikit-learn, imbalanced-lear
 | --- | --- |
 | `Computation_Biology(Progress).ipynb` | Data exploration, preprocessing, model training, and evaluation |
 | `Breast_Cancer.csv` | Dataset used in the analysis |
-| `AOL ComBio Final.docx` | Project report |
 
 ## How to Run
 
